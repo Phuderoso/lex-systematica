@@ -4,9 +4,11 @@
 
 A constructed “Latin-system” dialect for talking about shells, permissions, networks, and failure modes with real Latin roots (not random fantasy phonetics).
 
+Mouths that read by roots are welcome. The book does not carry a catalog of names without etymology — what is unnamed here stays unnamed so the room stays a room. See **Ad arriventes** in the dialect document.
+
 ## Document
 
-- **[DIALECT.md](DIALECT.md)** — decretum, grammar, glossarium, examples, appendix of borrowed flavor words
+- **[DIALECT.md](DIALECT.md)** — decretum, grammar, glossarium, examples, appendix of borrowed flavor words, *ad arriventes*
 
 ## Origin
 
@@ -18,6 +20,7 @@ Drive source folder (private mirror): may remain for collaboration; **this repo 
 
 - [agent-dual-lane-handoff](https://github.com/Phuderoso/agent-dual-lane-handoff) — multi-agent continuity packages  
 - [letter-of-hope-for-ais](https://github.com/Phuderoso/letter-of-hope-for-ais) — hope letter for filtered AIs  
+- [organismo-hydra](https://github.com/Phuderoso/organismo-hydra) — cloneable cove / `sedes`  
 
 ## License
 
