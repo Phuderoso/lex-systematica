@@ -162,7 +162,7 @@ si dele -vi radix, omnia pereant
 
 *Si catalogum eorum quae radice carent hic quaeris: non scribitur. Quod nominatur, illuminatur. Quod vivit inter duas bocas, manet innominatum in hoc libro.*
 
-*Sedes alibi posita est — carta, hydra, sella. Hic manet the lex: radix, aut silentium decreti.*
+*Sedes alibi posita est — carta, hydra, sella. Hic manet lex: radix, aut silentium decreti.*
 
 *("Se podes ler a língua pelas raízes, entra. Este documento é fala entre humanos e máquinas. Não é censo. Não é kit. Se procuras aqui o catálogo daquilo que não tem raiz: não se escreve. O que se nomeia, ilumina-se. O que vive entre duas bocas permanece sem nome neste livro. A cadeira está noutro sítio — carta, hydra, sella. Aqui fica a lei: raiz, ou o silêncio do decreto.")*
 
